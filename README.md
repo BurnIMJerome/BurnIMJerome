@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Jerome Villaroman 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=900&color=36BCF7&center=true&vCenter=true&width=900&lines=Solution+Architect+%7C+Power+Automate+%26+RPA;Agentic+AI+%2B+RAG+Builder+(Vertex+AI+%2B+ADK);Automation+%7C+Azure+%7C+BigQuery+%7C+Power+BI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=900&color=36BCF7&center=true&vCenter=true&width=900&lines=Developer+Sol Arch +%7C+Power+Automate+%26+RPA;Agentic+AI+%2B+RAG+Builder+(Vertex+AI+%2B+ADK);Automation+%7C+Azure+%7C+BigQuery+%7C+Power+BI" alt="Typing SVG" />
 </p>
 
 ---
