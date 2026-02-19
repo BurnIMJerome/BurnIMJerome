@@ -9,11 +9,8 @@
 
 ## 👨‍💻 About Me
 
-I'm a Humble Developer specializing in **RPA**, and **Microsoft/Azure technologies**, with growing focus on **Agentic AI** and **RAG** using **Vertex AI + ADK**.
 
-I enjoy turning messy, manual workflows into clean, scalable automations.
-
-When I'm not building automations, you'll probably find me in SPAs, Club, or at home playing video games. 😄
+When I'm not building automations, you'll probably find me in SPAs, Club, or at home playing video games. 
 
 ---
 
