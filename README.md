@@ -53,8 +53,8 @@ When I'm not building automations, you'll probably find me in SPAs, Club, or at 
 
 ## 🏅 Certifications
 
-- ✅ Microsoft / Azure (AZ900)
-- ✅ RPA (UiPath / Blue Prism / Automation Anywhere)
+- ✅ Microsoft | Azure (AZ900) / AI900
+- ✅ RPA (UIARD / Blue Prism / Automation Anywhere Advance Developer / PL500)
 
 
 ---
