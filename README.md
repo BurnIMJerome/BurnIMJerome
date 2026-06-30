@@ -10,7 +10,7 @@
 ## 👨‍💻 About Me
 
 
-When I'm not building automations, you'll probably find me in SPAs, Club, or at home playing video games. 
+<Place holder>
 
 ---
 
