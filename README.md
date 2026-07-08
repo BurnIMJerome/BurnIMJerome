@@ -44,10 +44,10 @@
 
 ## 🤖 AI Platform / Agentic AI
 
-- **Vertex AI** (Gemini / Embeddings / RAG)
+- **.Net** (VB / C# / ASP)
 - **ADK (Agent Development Kit)**
-- **BigQuery** as structured source of truth (e.g., RMA tables)
-- **Vector Search / Retrieval** (depending on your stack)
+- **RPA** as structured source of truth (e.g., RMA tables)
+- **Vector Search / Retrieval** 
 
 ---
 
