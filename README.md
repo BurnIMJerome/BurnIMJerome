@@ -32,8 +32,7 @@
 
 <p align="left">
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=azure,gcp,python,html,css,docker,git,mysql,mssql" />
-  <img src="https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=uipath&logoColor=white" />
+  ....
 </p>
 
 
@@ -44,9 +43,9 @@
 
 ## 🤖 AI Platform / Agentic AI
 
-- **.Net** (VB / C# / ASP)
+- **.Net** (VB / C# )
 - **ADK (Agent Development Kit)**
-- **RPA** as structured source of truth (e.g., RMA tables)
+- **RPA** as structured source of truth 
 - **Vector Search / Retrieval** 
 
 ---
@@ -55,6 +54,7 @@
 
 - ✅ Microsoft | Azure (AZ900) / AI900 | PL900
 - ✅ RPA (UIARD / Blue Prism / Automation Anywhere Advance Developer / PL500)
+
 
 
 ---
