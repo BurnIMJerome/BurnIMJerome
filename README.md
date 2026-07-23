@@ -46,7 +46,8 @@
 - **.Net** (VB / C# )
 - **ADK (Agent Development Kit)**
 - **RPA** as structured source of truth 
-- **Vector Search / Retrieval** 
+- **Vector Search / Retrieval**
+- MS Copilot Studio
 
 ---
 
