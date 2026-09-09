@@ -13,7 +13,7 @@
 Passion Project:
 
 Likha - a low-code automation platform that combines Agentic AI, agentic workflows, and RPA in one unified solution.
- <a href="[https://github.com/BurnIMJerome](https://burnimjerome.github.io/LIKHA-_-BETA/)"> Click Here </a>
+<a href="https://burnimjerome.github.io/LIKHA-_-BETA/" target="_blank" rel="noopener noreferrer">Click Here</a>
  
 ---
 
