@@ -10,8 +10,10 @@
 ## 👨‍💻 About Me
 
 
-<Place holder>
+Passion Project:
 
+Likha - a low-code automation platform that combines Agentic AI, agentic workflows, and RPA in one unified solution.
+ <a href="[https://github.com/BurnIMJerome](https://burnimjerome.github.io/LIKHA-_-BETA/)" target="_blank"> Clcik Here </a>
 ---
 
 ## 🔗 Connect with me
@@ -43,11 +45,12 @@
 
 ## 🤖 AI Platform / Agentic AI
 
-- **.Net** (VB / C# )
+- **PROGRAMMING** (.NET , Python, VBA , window scriptings)
 - **ADK (Agent Development Kit)**
-- **RPA** as structured source of truth 
-- **Vector Search / Retrieval**
-- MS Copilot Studio
+- **RPA**  
+- **RAG / Vector Search**
+- **Power Apps**
+- **Agentic AI and Agent Workflows**
 
 ---
 
