@@ -62,7 +62,7 @@
 
 ## 📬 You can reach me at
 
-- **Email:** JeromeIan.Villaroman@ingrammicro.com    
+- **Email:** jearomev@yahoo.com
 - **LinkedIn:** [https://www.linkedin.com/in/YOUR_LINKEDIN/  ](https://www.linkedin.com/in/jerome-ian-villaroman-271472128/)
 
 
